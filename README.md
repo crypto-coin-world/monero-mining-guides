@@ -12,3 +12,4 @@ https://bcoin.io/
 https://www.dyne.org/
 
 https://sovrin.org
+  https://ledgerproject.eu/partners/
